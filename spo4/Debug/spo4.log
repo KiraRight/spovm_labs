@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  Source.cpp
+c:\users\анастасия\documents\visual studio 2015\projects\spo4\spo4\source.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+  spo4.vcxproj -> C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\spo4\Debug\spo4.exe
+  spo4.vcxproj -> C:\Users\Анастасия\Documents\Visual Studio 2015\Projects\spo4\Debug\spo4.pdb (Full PDB)
